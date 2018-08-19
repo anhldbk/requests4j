@@ -1,0 +1,7 @@
+logs
+.idea
+target
+.settings
+.classpath
+.factorypath
+.project
